@@ -22,4 +22,4 @@ Desktop:
 <img alt="A screenshot of the page in active state in a desktop view" src="/images/screenshot_desk-active.png" width="100%">
 
 Mobile:
-<img alt="A screenshot of the page in a mobile view" src="/images/screenshot_mobile.png">
+<img alt="A screenshot of the page in a mobile view" src="/images/screenshot_mobile.png" width="30%">
